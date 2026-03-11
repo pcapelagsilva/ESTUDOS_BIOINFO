@@ -1,0 +1,2 @@
+ID do gene: Sequencia_1
+Trecho da sequencia: AGCTAGCGA

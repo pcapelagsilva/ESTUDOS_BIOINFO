@@ -1,0 +1,5 @@
+-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=
+ID do Gene: Paciente_nivel11
+------------------------------------
+Sequencia iniciando no códon de start: ATGCAGGACAGATATTGATCGACCAAATCGCCGATACGATAGATGATCGATAGCGCGTAATGATCGAT
+-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=

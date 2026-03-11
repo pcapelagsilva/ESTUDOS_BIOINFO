@@ -1,0 +1,3 @@
+ID: Insulina_Humana_Trecho
+GC: 67.78%
+Proteina: MALWMRLLPLLALLALWGPDPAAAFVNQHL
