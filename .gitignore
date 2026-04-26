@@ -1,0 +1,8 @@
+# Ficheiros de dados de treino
+*.fasta
+*.txt
+!README.md
+
+# Temporários
+*.swp
+__pycache__/
